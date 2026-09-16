@@ -1,0 +1,30 @@
+# Simulation output
+*.vcd
+*.fst
+*.ghw
+*.lxt
+a.out
+obj_dir/
+sim_build/
+results.xml
+__pycache__/
+
+# Vivado
+*.jou
+*.log
+*.str
+.Xil/
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Formal
+*_bmc/
+*_prove/
+*_cover/
+
+# OS and editor
+.DS_Store
+.vscode/
