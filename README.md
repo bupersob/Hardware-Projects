@@ -8,7 +8,6 @@ Each folder holds one design: RTL in `rtl/`, testbenches and assertions in `tb/`
 
 | Design | Plan sections | Status |
 |---|---|---|
-| [4-to-1-mux](4-to-1-mux/) | 1.1 | not started |
 | [ripple-carry-adder](ripple-carry-adder/) | 1.2 | not started |
 | [carry-lookahead-adder](carry-lookahead-adder/) | 1.2 | not started |
 | [alu-32bit](alu-32bit/) | 1.2, 5.2 | not started |
