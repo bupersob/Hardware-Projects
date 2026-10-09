@@ -3,7 +3,7 @@
 **Status:** not started
 **Plan sections:** 1.4
 
-A button debouncer for the Basys 3 (optional hardware).
+A button debouncer that resets a 4-bit counter shown on the Arty A7 LEDs.
 
 ## Design
 

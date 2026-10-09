@@ -3,7 +3,7 @@
 **Status:** not started
 **Plan sections:** 1.5
 
-A traffic light controller with a timer and pedestrian button.
+A traffic light controller with a timer and a pedestrian request input, with defined recovery from unused state encodings.
 
 ## Design
 

@@ -1,9 +1,9 @@
-# strobe-generator
+# priority-encoder
 
 **Status:** not started
-**Plan sections:** 1.4, 1.8
+**Plan sections:** 1.1
 
-A strobe generator that pulses once every N cycles, used as a clock enable.
+A 4-to-2 priority encoder with a self-checking testbench that reads test vectors from a file.
 
 ## Design
 

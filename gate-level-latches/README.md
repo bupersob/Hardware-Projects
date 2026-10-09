@@ -1,9 +1,9 @@
-# up-down-counter
+# gate-level-latches
 
 **Status:** not started
-**Plan sections:** 1.4, 3.1
+**Plan sections:** 1.3
 
-An up/down counter with enable, load, and synchronous reset.
+An SR latch, a D latch, and a master-slave D flip-flop built from gate primitives.
 
 ## Design
 

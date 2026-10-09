@@ -1,9 +1,9 @@
-# universal-shift-register
+# async-fifo
 
 **Status:** not started
-**Plan sections:** 1.4
+**Plan sections:** 1.7
 
-A universal shift register.
+An asynchronous FIFO with Gray-coded pointers, tested with unrelated clocks and metastability injection.
 
 ## Design
 

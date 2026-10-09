@@ -1,7 +1,7 @@
 # riscv-pipelined-core
 
 **Status:** not started
-**Plan sections:** 5.4, 5.5, 6.2–6.5
+**Plan sections:** 5.4, 5.5, 6.1–6.6
 
 A five-stage pipelined RV32I core with forwarding, stalls, flushing, and a memory-mapped UART; the flagship verification target.
 

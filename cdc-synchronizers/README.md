@@ -3,7 +3,7 @@
 **Status:** not started
 **Plan sections:** 1.6
 
-Clock domain crossing (CDC) synchronizers: a 2-flop synchronizer, a pulse synchronizer, and a toggle handshake.
+Clock domain crossing (CDC) synchronizers: a 2-flop synchronizer, a pulse synchronizer, and a toggle handshake, tested with metastability injection and a Gray-coded counter crossing.
 
 ## Design
 

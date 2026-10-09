@@ -1,9 +1,9 @@
-# sequence-detector-1011
+# clock-enable-generator
 
 **Status:** not started
-**Plan sections:** 1.5
+**Plan sections:** 1.4, 1.8, 3.1
 
-Moore and Mealy detectors for the overlapping sequence 1011.
+A clock-enable generator that pulses once every N cycles, used for a 1 Hz LED blinker, the UART baud rate, and a first formal proof.
 
 ## Design
 
