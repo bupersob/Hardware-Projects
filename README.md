@@ -24,7 +24,7 @@ Each folder holds one design: RTL in `rtl/`, testbenches and assertions in `tb/`
 | [single-port-ram](single-port-ram/) | 1.7 | not started |
 | [sync-fifo](sync-fifo/) | 1.7, 2.1–2.8, 3.2 | not started |
 | [async-fifo](async-fifo/) | 1.7 | not started |
-| [uart](uart/) | 1.8, 2.8, 4.8 | not started |
-| [apb-register-block](apb-register-block/) | 2.9, 2.10, 3.2, 4.2–4.7 | not started |
+| [uart](uart/) | 1.8, 2.8 | not started |
+| [apb-register-block](apb-register-block/) | 2.9, 2.10, 3.2 | not started |
 | [riscv-single-cycle-core](riscv-single-cycle-core/) | 5.2, 5.3 | not started |
 | [riscv-pipelined-core](riscv-pipelined-core/) | 5.4, 5.5, 6.1–6.6 | not started |

@@ -1,9 +1,9 @@
 # uart
 
 **Status:** not started
-**Plan sections:** 1.8, 2.8, 4.8
+**Plan sections:** 1.8, 2.8
 
-A UART transmitter and receiver with a receive FIFO, later given an APB register interface.
+A UART transmitter and receiver with a receive FIFO, checked with a first formal proof and run on the Arty A7.
 
 ## Design
 

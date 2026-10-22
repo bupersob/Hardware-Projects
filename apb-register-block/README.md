@@ -1,9 +1,9 @@
 # apb-register-block
 
 **Status:** not started
-**Plan sections:** 2.9, 2.10, 3.2, 4.2–4.7
+**Plan sections:** 2.9, 2.10, 3.2
 
-An APB slave register block, verified with a layered testbench, cocotb, formal, and UVM.
+An APB slave register block, verified with a layered testbench, cocotb, and formal.
 
 ## Design
 
